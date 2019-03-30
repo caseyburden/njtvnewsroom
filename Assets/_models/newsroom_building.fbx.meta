@@ -7,23 +7,38 @@ ModelImporter:
     100002: Cube
     100004: Cube.001
     100006: Plane
+    100008: Plane.001
+    100010: Plane.002
     400000: //RootNode
     400002: Cube
     400004: Cube.001
     400006: Plane
+    400008: Plane.001
+    400010: Plane.002
     2100000: No Name
     2300000: //RootNode
     2300002: Cube
     2300004: Cube.001
     2300006: Plane
+    2300008: Plane.001
+    2300010: Plane.002
     3300000: //RootNode
     3300002: Cube
     3300004: Cube.001
     3300006: Plane
+    3300008: Plane.001
+    3300010: Plane.002
     4300000: Plane
     4300002: Cube.001
     4300004: Cube
-  externalObjects: {}
+    4300006: Plane.002
+    4300008: Plane.001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 6a73f664eb7db47ef83f319c3b03a1ea, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
