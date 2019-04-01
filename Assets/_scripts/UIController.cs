@@ -19,11 +19,18 @@ public class UIController : MonoBehaviour
 
     public void PlayGame()
     {
-        SceneManager.LoadScene("NewsroomWalkthru");
+        PlayScene("NewsroomWalkthru");
     }
+
+
 
     public void QuitGame()
     {
         Application.Quit();
+    }
+
+    public void PlayScene(string sceneName)
+    {
+        SceneManager.LoadScene(sceneName);
     }
 }

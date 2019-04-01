@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/NewsroomWalkthru.unity
     guid: 922bcdf0c0376414ea03d8c252634ac1
+  - enabled: 1
+    path: Assets/Scenes/Newsroom.unity
+    guid: c0c0bf56aef374b4cb7f31e029075f9b
   m_configObjects: {}
